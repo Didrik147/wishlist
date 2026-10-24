@@ -17,7 +17,7 @@ layout: null
     padding: 50px 60px;
     background: #ffffff;
     color: #111111;
-    line-height: 1.6;
+    line-height: 1.5;
     /* Soft drop shadow to elevate the page */
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08), 0 1px 3px rgba(0, 0, 0, 0.05);
     border-radius: 2px;
