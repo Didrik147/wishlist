@@ -90,7 +90,7 @@ Fås trolig på Outland og/eller Norli eller andre butikker som har bøker.
 - **Adrian Tchaikovsky:** Children of Time
 	- [Norli](https://www.norli.no/boker/boker-pa-andre-sprak/engelske-boker/children-of-time)
 - **Yuval Noah Harari:** Sapiens - A Brief History of Humankind
-	- [Norli](https://www.ark.no/produkt/sapiens-9781529913934)
+	- [Ark](https://www.ark.no/produkt/sapiens-9780099590088)
 - En interessant bok jeg kan lære noe av (må kunne byttes). Både norske og engelske bøker er fint.
 - En bok du tror jeg kommer til å like (må kunne byttes). Både norske og engelske bøker er fint.
 
