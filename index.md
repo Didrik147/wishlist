@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 <style>
   /* Standard nettleserutseende med ren layout */
   body {
