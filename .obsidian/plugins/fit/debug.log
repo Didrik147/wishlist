@@ -1,0 +1,231 @@
+﻿[2026-10-24T08:53:50.656Z] [Plugin] Starting plugin initialization
+[2026-10-24T08:53:50.657Z] .. 📦 [Cache] Loaded SHA caches from storage: {
+  "source": "plugin data.json",
+  "localShaCount": 0,
+  "remoteShaCount": 0,
+  "lastCommit": null
+}
+[2026-10-24T08:53:50.659Z] [Plugin] Plugin initialization completed successfully
+[2026-10-24T08:54:45.002Z] [Plugin] Manual sync requested
+[2026-10-24T09:07:14.557Z] [Plugin] Manual sync requested
+[2026-10-24T09:07:14.563Z] 🚀 [SYNC START] Manual sync requested
+[2026-10-24T09:07:14.563Z] 🔄 [Sync] Checking local and remote changes (parallel)...
+[2026-10-24T09:07:14.564Z] .. 💾 [LocalVault] Scanning files...
+[2026-10-24T09:07:14.564Z] .. ☁️ [RemoteVault] Fetching from GitHub...
+[2026-10-24T09:07:14.582Z] ... 💾 [LocalVault] Scanned 3 files
+[2026-10-24T09:07:15.053Z] ... ⬇️ [RemoteVault] Fetching initial state from GitHub (989ee77)...
+[2026-10-24T09:07:15.457Z] ... ☁️ [RemoteVault] Fetched 9 files
+[2026-10-24T09:07:15.458Z] [Fit] Remote changes detected: {
+  "ADDED": 9,
+  "MODIFIED": 0,
+  "REMOVED": 0,
+  "total": 9
+}
+[2026-10-24T09:07:15.458Z] .. ✅ [Sync] Change detection complete
+[2026-10-24T09:07:15.459Z] 🔄 [FitSync] Syncing changes (3 local, 9 remote): {
+  "local": {
+    "ADDED": [
+      "_config.yml",
+      "README.md",
+      "index.md"
+    ]
+  },
+  "remote": {
+    "ADDED": [
+      ".gitignore",
+      ".obsidian/app.json",
+      ".obsidian/appearance.json",
+      ".obsidian/core-plugins.json",
+      ".obsidian/graph.json",
+      ".obsidian/snippets/paper.css",
+      "README.md",
+      "_config.yml",
+      "index.md"
+    ]
+  }
+}
+[2026-10-24T09:07:15.461Z] [FitSync] Conflict detection complete: {
+  "safeLocal": 0,
+  "safeRemote": 0,
+  "clashes": 9
+}
+[2026-10-24T09:07:16.045Z] .. ⬇️ [Pull] Applied remote changes to local: {
+  "filesWritten": 0,
+  "filesDeleted": 0,
+  "clashesWrittenToFit": 9
+}
+[2026-10-24T09:07:16.045Z] [FitSync] Updated local state with SHAs from written files: {
+  "filesProcessed": 6,
+  "totalFilesInState": 9
+}
+[2026-10-24T09:07:16.046Z] .. 📦 [Cache] Updating SHA cache after sync: {
+  "localChanges": 9,
+  "remoteChanges": 9,
+  "commitChanged": true,
+  "localOpsApplied": 9,
+  "remoteOpsPushed": 0
+}
+[2026-10-24T09:07:16.053Z] .. 📦 [Cache] Loaded SHA caches from storage: {
+  "source": "plugin data.json",
+  "localShaCount": 4,
+  "remoteShaCount": 9,
+  "lastCommit": "989ee770a2434c33c504e262313cf22e6771c030"
+}
+[2026-10-24T09:07:16.053Z] [FitSync] Sync completed with conflicts: {
+  "conflictCount": 9,
+  "conflicts": [
+    {
+      "path": "_config.yml",
+      "local": "ADDED",
+      "remote": "ADDED"
+    },
+    {
+      "path": "README.md",
+      "local": "ADDED",
+      "remote": "ADDED"
+    },
+    {
+      "path": "index.md",
+      "local": "ADDED",
+      "remote": "ADDED"
+    },
+    {
+      "path": ".gitignore",
+      "local": "untracked",
+      "remote": "ADDED"
+    },
+    {
+      "path": ".obsidian/app.json",
+      "local": "protected",
+      "remote": "ADDED"
+    },
+    {
+      "path": ".obsidian/appearance.json",
+      "local": "protected",
+      "remote": "ADDED"
+    },
+    {
+      "path": ".obsidian/core-plugins.json",
+      "local": "protected",
+      "remote": "ADDED"
+    },
+    {
+      "path": ".obsidian/graph.json",
+      "local": "protected",
+      "remote": "ADDED"
+    },
+    {
+      "path": ".obsidian/snippets/paper.css",
+      "local": "protected",
+      "remote": "ADDED"
+    }
+  ]
+}
+[2026-10-24T09:07:16.053Z] [FitSync] 5 path(s) blocked by sync policy: {
+  "protectedPaths": [
+    ".obsidian/app.json",
+    ".obsidian/appearance.json",
+    ".obsidian/core-plugins.json",
+    ".obsidian/graph.json",
+    ".obsidian/snippets/paper.css"
+  ]
+}
+[2026-10-24T09:07:16.053Z] ✅ [SYNC COMPLETE] Success with conflicts: {
+  "duration": "1.49s",
+  "totalOperations": 9,
+  "conflicts": 9,
+  "changes": [
+    {
+      "heading": "Local file updates:",
+      "changes": [
+        {
+          "path": "_fit/_config.yml",
+          "type": "ADDED"
+        },
+        {
+          "path": "_fit/README.md",
+          "type": "ADDED"
+        },
+        {
+          "path": "_fit/index.md",
+          "type": "ADDED"
+        },
+        {
+          "path": "_fit/.gitignore",
+          "type": "ADDED"
+        },
+        {
+          "path": "_fit/.obsidian/app.json",
+          "type": "ADDED"
+        },
+        {
+          "path": "_fit/.obsidian/appearance.json",
+          "type": "ADDED"
+        },
+        {
+          "path": "_fit/.obsidian/core-plugins.json",
+          "type": "ADDED"
+        },
+        {
+          "path": "_fit/.obsidian/graph.json",
+          "type": "ADDED"
+        },
+        {
+          "path": "_fit/.obsidian/snippets/paper.css",
+          "type": "ADDED"
+        }
+      ]
+    },
+    {
+      "heading": "Remote file updates:",
+      "changes": []
+    }
+  ],
+  "unresolvedConflicts": [
+    {
+      "path": "_config.yml",
+      "localState": "ADDED",
+      "remoteOp": "ADDED"
+    },
+    {
+      "path": "README.md",
+      "localState": "ADDED",
+      "remoteOp": "ADDED"
+    },
+    {
+      "path": "index.md",
+      "localState": "ADDED",
+      "remoteOp": "ADDED"
+    },
+    {
+      "path": ".gitignore",
+      "localState": "untracked",
+      "remoteOp": "ADDED"
+    },
+    {
+      "path": ".obsidian/app.json",
+      "localState": "protected",
+      "remoteOp": "ADDED"
+    },
+    {
+      "path": ".obsidian/appearance.json",
+      "localState": "protected",
+      "remoteOp": "ADDED"
+    },
+    {
+      "path": ".obsidian/core-plugins.json",
+      "localState": "protected",
+      "remoteOp": "ADDED"
+    },
+    {
+      "path": ".obsidian/graph.json",
+      "localState": "protected",
+      "remoteOp": "ADDED"
+    },
+    {
+      "path": ".obsidian/snippets/paper.css",
+      "localState": "protected",
+      "remoteOp": "ADDED"
+    }
+  ]
+}

@@ -80,12 +80,17 @@ layout: null
 
 
 ## Bøker og lesestoff
-Fås trolig på Outland og/eller Norli eller andre bokbutikker.
-- Brandon Sanderson: The Fires of December
+Fås trolig på Outland og/eller Norli eller andre butikker som har bøker.
+- **Brandon Sanderson:** The Fires of December
     - [Norli](https://www.norli.no/boker/skjonnlitteratur/fantasy-og-scifi/the-fires-of-december-9781399640893)
-- Brandon Sanderson, Janci Patterson: Blightfall - Skyward Legacy 1
+- **Brandon Sanderson, Janci Patterson:** Blightfall
     - [Norli](https://www.norli.no/boker/skjonnlitteratur/fantasy-og-scifi/blightfall-9781399617291)
-- Adrian Tchaikovsky: Children of Time
+- **Bill Bryson**: A Short History of Nearly Everything 2.0
+	- [Ark](https://www.ark.no/produkt/a-short-history-of-nearly-everything-20-9781529966817)
+- **Adrian Tchaikovsky:** Children of Time
+	- [Norli](https://www.norli.no/boker/boker-pa-andre-sprak/engelske-boker/children-of-time)
+- **Yuval Noah Harari:** Sapiens - A Brief History of Humankind
+	- [Norli](https://www.ark.no/produkt/sapiens-9781529913934)
 - En interessant bok jeg kan lære noe av (må kunne byttes). Både norske og engelske bøker er fint.
 - En bok du tror jeg kommer til å like (må kunne byttes). Både norske og engelske bøker er fint.
 
@@ -94,7 +99,7 @@ Fås trolig på Outland og/eller Norli eller andre bokbutikker.
 - Finlandshette
 
 ## Annet/diverse
-- Behagelig kontrolstol
+- Behagelig kontorstol
 - Penger (kan være øremerket spesifikke ting)
 - Gavekort (f.eks. Outland)
 - Steketermometer (til potet, evt. potetnål/spiker)
