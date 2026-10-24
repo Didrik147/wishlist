@@ -100,6 +100,7 @@ Fås trolig på Outland og/eller Norli eller andre butikker som har bøker.
 
 ## Annet/diverse
 - Behagelig kontorstol
+	- [IKEA](https://www.ikea.com/no/no/p/markus-kontorstol-vissle-mork-gra-10588801/)
 - Penger (kan være øremerket spesifikke ting)
 - Gavekort (f.eks. Outland)
 - Steketermometer (til potet, evt. potetnål/spiker)
