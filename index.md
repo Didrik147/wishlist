@@ -80,7 +80,7 @@ layout: null
 
 
 ## Bøker og lesestoff
-Fås trolig på Outland og/eller Norli eller andre butikker som har bøker.
+Fås trolig på Outland og/eller Norli eller andre butikker som har bøker. I prioritert rekkefølge.
 - **Brandon Sanderson:** The Fires of December
     - [Norli](https://www.norli.no/boker/skjonnlitteratur/fantasy-og-scifi/the-fires-of-december-9781399640893)
 - **Brandon Sanderson, Janci Patterson:** Blightfall
