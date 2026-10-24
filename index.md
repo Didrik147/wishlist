@@ -28,7 +28,6 @@
 
 ---
 
-
 ## Bøker og lesestoff
 Fås trolig på Outland og/eller Norli eller andre bokbutikker.
 
