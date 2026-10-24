@@ -1,6 +1,6 @@
-# Wishlist Repository
+# Ønskeliste
 
-This repository hosts my Christmas Wishlist built with Markdown and GitHub Pages.
+Dette GitHub-repositoriet inneholder juleønskelisten min, publisert via GitHub Pages og skrevet i Markdown.
 
-* **Live Printable Page:** `https://didrik147.github.io/wishlist/`
-* **Editing:** Edit `index.md` on PC via `github.dev` or on mobile via NotesHub / GitHub App.
+- **Utskriftsvennlig side:** [https://didrik147.github.io/wishlist/](https://didrik147.github.io/wishlist/)
+- **Redigering:** Rediger `index.md` på PC via `github.dev` eller på mobil via NotesHub / GitHub-appen.
