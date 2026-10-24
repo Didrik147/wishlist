@@ -1,12 +1,10 @@
 # Security & Credentials
-.obsidian/plugins/fit/data.json
 **/*.env
 
 # Plugin Runtime & Build Files
 .obsidian/plugins/
 
 # Temporary Sync & Conflict Folders
-_fit/
 .trash/
 
 # Obsidian UI & Cache States
