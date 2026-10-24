@@ -1,7 +1,7 @@
 <style>
   /* Standard nettleserutseende med ren layout */
   body {
-    font-family: serif;
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
     max-width: 650px;
     margin: 40px auto;
     padding: 0 20px;
@@ -26,7 +26,6 @@
 
 > **Utskriftstips:** Velg **Skriv ut** (`Ctrl + P`) i nettleseren din for å få en utskrift av denne listen.
 
----
 
 ## Bøker og lesestoff
 Fås trolig på Outland og/eller Norli eller andre bokbutikker.
@@ -40,12 +39,10 @@ Fås trolig på Outland og/eller Norli eller andre bokbutikker.
 - En bok du tror jeg kommer til å like (må kunne byttes). Både norske og engelske bøker er fint.
 
 ## Klær
-
 - Turbukse
 - Finlandshette
 
 ## Annet/diverse
-
 - Behagelig kontrolstol
 - Penger (kan være øremerket spesifikke ting)
 - Gavekort (f.eks. Outland)
