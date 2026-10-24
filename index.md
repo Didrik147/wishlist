@@ -3,23 +3,61 @@ layout: null
 ---
 
 <style>
-  /* Standard nettleserutseende med ren layout */
-  body {
-    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
-    max-width: 650px;
-    margin: 40px auto;
-    padding: 0 20px;
-    color: #000;
-    background: #fff;
-    line-height: 1.5;
+  /* Gray background for the screen view */
+  html {
+    background-color: #f0f2f5;
+    padding: 20px 0;
   }
 
-  /* Sørger for at utskriften blir 100 % ren uten marginer */
+  /* White "page" styled like a document sheet */
+  body {
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 50px 60px;
+    background: #ffffff;
+    color: #111111;
+    line-height: 1.6;
+    /* Soft drop shadow to elevate the page */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08), 0 1px 3px rgba(0, 0, 0, 0.05);
+    border-radius: 2px;
+  }
+
+  /* Make links look clean and subtle */
+  a {
+    color: #1a73e8;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+
+  /* Clean up headers inside the document */
+  h1 {
+    font-size: 2em;
+    margin-top: 0;
+    border-bottom: 1px solid #eeeeee;
+    padding-bottom: 10px;
+  }
+
+  h2 {
+    font-size: 1.3em;
+    margin-top: 28px;
+    color: #222222;
+  }
+
+  /* Print view: Remove background gray and shadow for a pure paper output */
   @media print {
+    html {
+      background-color: #ffffff;
+      padding: 0;
+    }
     body {
+      box-shadow: none;
       margin: 0;
       padding: 0;
       max-width: 100%;
+      border-radius: 0;
     }
   }
 </style>
