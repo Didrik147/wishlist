@@ -36,13 +36,15 @@ layout: null
   h1 {
     font-size: 2em;
     margin-top: 0;
+    margin-bottom: 0;
     border-bottom: 1px solid #eeeeee;
     padding-bottom: 10px;
   }
 
   h2 {
     font-size: 1.3em;
-    margin-top: 28px;
+    margin-top: 0;
+    margin-bottom: 0;
     color: #222222;
   }
 
