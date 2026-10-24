@@ -35,17 +35,25 @@ layout: null
   /* Clean up headers inside the document */
   h1 {
     font-size: 2em;
-    margin-top: 0;
-    margin-bottom: 0;
-    border-bottom: 1px solid #eeeeee;
-    padding-bottom: 10px;
+    margin: 6px 0;
+    padding: 0;
+    text-align: center;
   }
 
   h2 {
     font-size: 1.3em;
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-top: 12px;
+    margin-bottom: 5px;
+    padding: 0;
     color: #222222;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  ul {
+    margin: 0;
   }
 
   /* Print view: Remove background gray and shadow for a pure paper output */
@@ -73,7 +81,6 @@ layout: null
 
 ## Bøker og lesestoff
 Fås trolig på Outland og/eller Norli eller andre bokbutikker.
-
 - Brandon Sanderson: The Fires of December
     - [Norli](https://www.norli.no/boker/skjonnlitteratur/fantasy-og-scifi/the-fires-of-december-9781399640893)
 - Brandon Sanderson, Janci Patterson: Blightfall - Skyward Legacy 1
